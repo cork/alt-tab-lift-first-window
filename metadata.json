@@ -1,6 +1,6 @@
 {
   "description": "Make Alt+Tab only lift the first window in a tab group.",
-  "name": "Alt Tab list first window",
+  "name": "Alt Tab lift first window",
   "original-authors": "Cork",
   "shell-version": [
     "3.12",
