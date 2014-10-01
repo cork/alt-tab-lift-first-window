@@ -18,7 +18,7 @@ function enable() {
 
 function disable() {
    let prop;
-   for (prop in injections) {
-      AltTab.WindowSwitcherPopup.prototype[prop] = injections[prop];
+   for(prop in injections) {
+      AltTab.AppSwitcherPopup.prototype[prop] = injections[prop];
    }
 }
