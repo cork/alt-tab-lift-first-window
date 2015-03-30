@@ -4,8 +4,9 @@
   "original-authors": "Cork",
   "shell-version": [
     "3.12",
-    "3.14"
+    "3.14",
+    "3.16"
   ],
   "uuid": "alt-tab-lift-first-window@cork.github.com",
-  "version": 2
+  "version": 3
 }
